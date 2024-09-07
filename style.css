@@ -1,0 +1,38 @@
+.custom-nav{
+    padding:0
+}
+.custom-nav a{
+    color:#6c757d;
+    padding:15px;
+}
+.custom-nav li:hover{
+    background-color: #0a0a0a;
+}
+.nav-link:hover{
+    color:white !important;
+}
+.custom-brand:hover{
+    background-color: #0a0a0a;
+    padding: 15px;
+}
+.custom-nav button:hover{
+    background-color: #0a0a0a;
+}
+
+.custom-main{
+    background-color: #dcdcdc;
+}
+.img-card{
+    height: 75%;
+    width: 100%;
+    border:1px solid grey;
+    transition: all 0.2s ease-in-out;
+}
+.img-card:hover {
+    filter: brightness(70%);
+}
+.text-grey{
+    color:rgb(96, 96, 96) !important;  
+    font-size: 20px;
+}
+  
